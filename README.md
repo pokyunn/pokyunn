@@ -2,7 +2,7 @@
 
 ## I'm a Developer who likes to search, study and try things out
 - Currently working at [AddSales](https://www.linkedin.com/company/we-addsales)
-- Some of my goals for 2021 are learn Japanese and Python
+- Some of my goals for 2022 are learn Japanese and Python
 - Fun Fact: I love to play adventure games and learn languages (Programming and Spoken)
 
 <br />
